@@ -10,8 +10,8 @@ class Patient {
     public String Email;
     public int FileNo;
     public String DateOFBirth;
-    public int Insurance;
-    public int IDNo;
-    public int Nationality;
+    public String Insurance;
+    public String IDNo;
+    public String Nationality;
     
 }
